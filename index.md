@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
-
+## Welcome to Anna's website!
+This site contains all of my latest projects. Take a look around.
 
 #### Here are some example pages:
 
